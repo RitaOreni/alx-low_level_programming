@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - A program that prints the size of various outputs and types
- * Return: 0 (success)
- */
+  * main - prints the sizes of various outputs and types
+  * Return: [0]
+  */
 int main(void)
 {
 	char a;
