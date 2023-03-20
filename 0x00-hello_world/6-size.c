@@ -1,8 +1,11 @@
 #include <stdio.h>
+
 /**
-  * main - prints the sizes of various outputs and types
-  * Return: [0]
-  */
+ * main - prints the sizes of various outputs and types
+ *
+ * Return: Always 0 (Success)
+ *
+ */
 int main(void)
 {
 	char a;
